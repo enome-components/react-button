@@ -8,6 +8,7 @@
     "index.css"
   ],
   "dependencies": {
-    "enome-components/suitcss-mixin": "*"
+    "enome-components/suitcss-mixin": "*",
+    "enome-components/react": "*"
   }
 }
