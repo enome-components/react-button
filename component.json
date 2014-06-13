@@ -1,0 +1,13 @@
+{
+  "name": "react-button",
+  "repository": "enome-components/react-button",
+  "scripts": [
+    "index.css"
+  ],
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {
+    "enome-components/suitcss-mixin": "*"
+  }
+}
