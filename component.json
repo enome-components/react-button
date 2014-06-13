@@ -2,7 +2,7 @@
   "name": "react-button",
   "repository": "enome-components/react-button",
   "scripts": [
-    "index.css"
+    "index.js"
   ],
   "styles": [
     "index.css"
