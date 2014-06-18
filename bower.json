@@ -1,22 +1,12 @@
 {
   "name": "react-button",
-  "main": "index.js",
+  "main": [
+    "index.js", 
+    "index.css"
+  ],
   "version": "0.0.0",
-  "homepage": "https://github.com/enome-components/react-button",
-  "authors": [
-    "enome <geert.pasteels@gmail.com>"
-  ],
-  "description": "testing react with bower",
-  "moduleType": ["es6"],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
   "dependencies": {
-    "react": "~0.10.0"
+    "react": "~0.10.0",
+    "suitcss-mixin": "enome-components/suitcss-mixin"
   }
 }
