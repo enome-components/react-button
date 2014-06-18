@@ -1,7 +1,7 @@
 /** @jsx React.DOM */
 
-var React = require('react');
-var suitcss = require('suitcss-mixin');
+import React from 'react';
+import suitcss from 'suitcss-mixin';
 
 var Button = React.createClass({
 
@@ -21,4 +21,4 @@ var Button = React.createClass({
 
 });
 
-module.exports = Button;
+export default Button;
